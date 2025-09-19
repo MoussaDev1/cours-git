@@ -13,6 +13,7 @@ const wordToEmoji = {
   terre: "🌍",
   mort: "💀",
   salut: "🫡",
+  aventure: "🗺️",
   // Ajoute tes propres emojis ici !
 };
 
