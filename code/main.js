@@ -15,6 +15,7 @@ const wordToEmoji = {
   salut: "🫡",
   aventure: "🗺️",
   voyage: "✈️",
+  mystère: "🕵️",
   // Ajoute tes propres emojis ici !
 };
 
